@@ -1,4 +1,7 @@
-![jsinspect](http://danielstjules.com/github/jsinspect-logo.png)
+# dupdetect
+
+#### dupdetect is an updated fork of the repo [jsinspect](https://github.com/danielstjules/jsinspect) because the original jsinspect seemed to be abandonded at the time of forking 3/24/2021
+
 
 Detect copy-pasted and structurally similar JavaScript code. Requires Node.js
 6.0+, and supports ES6, JSX as well as Flow. Note: the project has been mostly
