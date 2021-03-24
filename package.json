@@ -1,6 +1,6 @@
 {
-  "name": "jsinspect",
-  "version": "0.12.7",
+  "name": "dupdetect",
+  "version": "0.1.0",
   "description": "Detect structural similarities in your code",
   "keywords": [
     "inspect",
@@ -11,12 +11,12 @@
     "copy",
     "paste"
   ],
-  "author": "Daniel St. Jules <danielst.jules@gmail.com>",
+  "author": "Alex Joyner <rosco9awj@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/danielstjules/jsinspect",
+  "homepage": "https://github.com/alexjoyner/dupdetect",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielstjules/jsinspect.git"
+    "url": "https://github.com/alexjoyner/dupdetect.git"
   },
   "dependencies": {
     "babylon": "6.16.1",
@@ -34,7 +34,7 @@
     "mocha": "^3.5.0"
   },
   "bin": {
-    "jsinspect": "./bin/jsinspect"
+    "dupdetect": "./bin/dupdetect"
   },
   "scripts": {
     "test": "mocha -R spec spec spec/reporters"
